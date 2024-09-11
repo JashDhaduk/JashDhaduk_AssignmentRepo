@@ -1,2 +1,5 @@
-# JashDhaduk_AssignmentRepo
-This repo is made only for submitting my blockchain assignment during my 7th semester of B.tech. Because our faculty want us to push an assignment task into Github.
+# Assignment 4
+Submitting date : 04/09/2024
+Is followed as per steps : Yes
+Assignment level : Medium
+Code quality is maintained : Yes
